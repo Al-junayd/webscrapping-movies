@@ -1,6 +1,6 @@
-## 1. Movies Webscrapping
+# 1. Movies Webscrapping
 
-# 1.1 Objectives:
+## 1.1 Objectives:
 
 1. Use the requests and BeautifulSoup libraries to extract the contents of a web page
 
@@ -8,7 +8,7 @@
 
 3. Extract the relevant information and save it in the required form
 
-# 1.2 Installation:
+## 1.2 Installation:
 
 1. Run the following commands
 
@@ -17,7 +17,7 @@
  python3.11 -m pip install bs4
 ```
 
-# 1.3 Scenario
+## 1.3 Scenario
 
 Consider that you have been hired by a Multiplex management organization to extract the information of the top 50 movies with the best average rating from the web link shared below.
 
@@ -25,7 +25,7 @@ https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most
 
 1. The information required is `"Average Rank"`, `"Film"`, and `"Year"`.
 
-# 1.4 Steps
+## 1.4 Steps
 
 You are required to write a:
 
